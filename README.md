@@ -1,2 +1,2 @@
-# Dicee-Challenge
+# Dice-Challenge
  
